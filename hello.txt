@@ -1,1 +1,5 @@
-Testing git stash
+<<<<<<< HEAD
+Content from master
+=======
+Content from feature-branch
+>>>>>>> feature-branch
